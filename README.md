@@ -11,8 +11,13 @@
 
 ### 购买服务
 - 掠影科技 [掠影网络](https://sbba.tk)
+- 掠影科技 [掠影官网](https://lueying.tk)
 - 掠影客服 [@lueying](https://t.me/lueying) 
 
+### SS客户端安装
+- [Windows 客户端下载](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.10/Shadowsocks-4.0.10.zip)
+- [Android 客户端下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.4.5/shadowsocks-nightly-4.4.5.apk) 
+- [Mac 客户端下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.7.1/ShadowsocksX-NG.1.7.1.zip) 
 ```
 服务器：d2.sstz.info
 端口：44666
