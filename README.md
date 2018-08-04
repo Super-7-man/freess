@@ -21,6 +21,7 @@
 - [Windows 客户端下载](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.10/Shadowsocks-4.0.10.zip)
 - [Android 客户端下载](https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.4.5/shadowsocks-nightly-4.4.5.apk) 
 - [Mac 客户端下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.7.1/ShadowsocksX-NG.1.7.1.zip) 
+- IOS 需要Appstore下载
 ### 试用账号
 ```
 服务器：d2.sstz.info
