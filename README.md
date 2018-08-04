@@ -10,9 +10,12 @@
 * 免费试用的账号可能不稳定，[您可购买快速稳定的账号](https://sbba.tk)
 
 ### 购买服务
-- 掠影科技 [掠影网络](https://sbba.tk)
 - 掠影科技 [掠影官网](https://lueying.tk)
-- 掠影客服 [@lueying](https://t.me/lueying) 
+
+### 联系我们 Telegram
+ * [@lueying](https://t.me/lueying) 
+ * [掠影官方群组](https://t.me/lueying_b)
+ * [掠影官方订阅频道](https://t.me/lueying_a)
 
 ### SS客户端安装
 - [Windows 客户端下载](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.10/Shadowsocks-4.0.10.zip)
