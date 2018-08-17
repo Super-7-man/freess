@@ -26,14 +26,14 @@
 ### 试用账号
 ```
 服务器：d2.sstz.info
-端口：59689
+端口：42689
 密码：https://sbba.tk
 加密方式：aes-256-cfb
 ```
 
 ```
 服务器：v1.sstz.info
-端口：53031
+端口：43031
 密码：https://sbba.tk
 加密方式：aes-256-cfb
 ```
