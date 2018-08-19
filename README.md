@@ -1,5 +1,5 @@
 ### 更新时间
-2018-08-17
+2018-08-20
 ### 使用前必读
 * 禁止使用国产杀毒软件，比如：360安全卫士、腾讯电脑管家、百度卫士等。
 * 禁止使用国产浏览器，比如：360 浏览器、QQ 浏览器、百度浏览器等。
@@ -24,15 +24,10 @@
 - [Mac 客户端下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.7.1/ShadowsocksX-NG.1.7.1.zip) 
 - IOS 需要Appstore下载
 ### 试用账号
-```
-服务器：d2.sstz.info
-端口：42689
-密码：https://sbba.tk
-加密方式：aes-256-cfb
-```
+
 
 ```
-服务器：v1.sstz.info
+服务器：d2.sstz.info
 端口：43031
 密码：https://sbba.tk
 加密方式：aes-256-cfb
