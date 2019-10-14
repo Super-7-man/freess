@@ -8,10 +8,10 @@
 * 如果你对以上内容有异议，请不要使用下面的账号，并关闭本页面！
 * 以上解释权归掠影科技所有！
 * 每天自动更新，请注意定时更新。
-* 免费试用的账号可能不稳定，[您可购买快速稳定的账号](https://sstz.me)
+* 免费试用的账号可能不稳定，[您可购买快速稳定的账号](https://lueying.online)
 
 ### 购买服务
-- 掠影科技 [掠影官网](https://sstz.me)
+- 掠影科技 [掠影官网](https://lueying.online)
 
 ### 联系我们 Telegram
  * [@lueying](https://t.me/lueying) 
